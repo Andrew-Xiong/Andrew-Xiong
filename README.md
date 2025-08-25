@@ -2,7 +2,7 @@
 
 - 👋 I'm Andrew
 - 🌱 I’m currently working on projects to enhance my skills!
-- - 📫 How to reach me: apxyooj55@hotmail.com
+- 📫 How to reach me: apxyooj55@hotmail.com
 <!--
 **Andrew-Xiong/Andrew-Xiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
